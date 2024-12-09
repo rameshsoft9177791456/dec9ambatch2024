@@ -27,7 +27,7 @@ public class WdmProgs {
 			Thread.sleep(2000);
 			webDriver.close();
 		}
-		
+		System.out.println("java");
 		
 		/*driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
